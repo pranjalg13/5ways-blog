@@ -1,19 +1,19 @@
 const CONFIG = {
   // profile setting (required)
   profile: {
-    name: 'morethanmin',
+    name: '5 Ways',
     image: '/avatar.svg',  // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
-    role: 'frontend developer',
-    bio: 'I develop everything using node.',
-    email: 'morethanmin.dev@gmail.com',
-    linkedin: 'morethanmin',
-    github: 'morethanmin',
+    role: '',
+    bio: 'Just 5 ways to understand and learn',
+    email: '',
+    linkedin: '',
+    github: '',
     instagram: '',
   },
   projects: [
     {
-      name: `morethan-log`,
-      href: 'https://github.com/morethanmin/morethan-log'
+      name: `5-ways-blog`,
+      href: 'hello-world'
     }
   ],
   // blog setting (required)
@@ -34,7 +34,7 @@ const CONFIG = {
 
   // notion configuration (required)
   notionConfig: {
-    pageId: process.env.NOTION_PAGE_ID,
+    pageId: process.env.bf25ad4b1f424b6d8d6fefddb7a8b932,
   },
 
   // plugin configuration (optional)
