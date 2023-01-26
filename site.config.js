@@ -18,8 +18,8 @@ const CONFIG = {
   ],
   // blog setting (required)
   blog: {
-    title: 'morethan-log',
-    description: 'welcome to morethan-log!',
+    title: '5ways-blogs',
+    description: 'welcome to 5-ways blogs',
     theme: 'light' // ['light', 'dark', 'auto']
   },
 
