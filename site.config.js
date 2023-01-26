@@ -20,11 +20,11 @@ const CONFIG = {
   blog: {
     title: '5ways-blogs',
     description: 'welcome to 5-ways blogs',
-    theme: 'light' // ['light', 'dark', 'auto']
+    theme: 'auto' // ['light', 'dark', 'auto']
   },
 
   // CONFIG configration (required)
-  link: 'https://morethan-log.vercel.app',
+  link: 'https://5ways.me/',
   since: 2022, // If leave this empty, current year will be used.
   lang: 'en-US', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES', 'ko-KR']
   ogImageGenerateURL: 'https://og-image-korean.vercel.app', // The link to generate OG image, don't end with a slash
