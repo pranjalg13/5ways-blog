@@ -2,7 +2,7 @@ const CONFIG = {
   // profile setting (required)
   profile: {
     name: '5 Ways',
-    image: '/avatar.svg',  // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
+    image: 'https://og-image-korean.vercel.app/.png?theme=light&md=1&fontSize=100px&images=https%3A%2F%2Fassets.vercel.com%2Fimage%2Fupload%2Ffront%2Fassets%2Fdesign%2Fhyper-color-logo.svg',  // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
     role: '',
     bio: 'Just 5 ways to understand and learn programming concepts',
     email: 'brocodelabs@gmail.com',
