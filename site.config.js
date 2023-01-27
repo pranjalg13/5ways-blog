@@ -11,10 +11,6 @@ const CONFIG = {
     instagram: '',
   },
   projects: [
-    {
-      name: `5-ways-blog`,
-      href: 'hello-world'
-    }
   ],
   // blog setting (required)
   blog: {
@@ -51,7 +47,7 @@ const CONFIG = {
     }
   },
   utterances: {
-    enable: true,
+    enable: false,
     config: {
       repo: 'morethanmin/morethan-log',
       'issue-term': 'og:title',
