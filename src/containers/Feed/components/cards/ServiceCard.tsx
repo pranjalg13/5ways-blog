@@ -9,7 +9,7 @@ const ServiceCard: React.FC = () => {
       <div className="p-1 mb-3 dark:text-white">🌟 Service</div>
       <ul className="rounded-2xl mb-9 bg-white dark:bg-zinc-700 p-1 flex flex-col">
         <a
-          href={`${CONFIG.projects[0].href}`}
+          href=""
           rel="noreferrer"
           target="_blank"
           className="p-3 hover:bg-gray-100 dark:hover:bg-zinc-700 rounded-2xl cursor-pointer flex items-center gap-3 text-gray-500 dark:text-white hover:text-black dark:hover:text-white"

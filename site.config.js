@@ -11,6 +11,10 @@ const CONFIG = {
     instagram: '',
   },
   projects: [
+    {
+      name: `5-ways-blog`,
+      href: 'hello-world'
+    }
   ],
   // blog setting (required)
   blog: {
