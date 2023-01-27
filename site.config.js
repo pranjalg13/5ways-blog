@@ -19,7 +19,7 @@ const CONFIG = {
   // blog setting (required)
   blog: {
     title: '5ways-blogs',
-    description: 'welcome to 5-ways blogs',
+    description: 'Learn about programming concepts | Short and Useful',
     theme: 'auto' // ['light', 'dark', 'auto']
   },
 
