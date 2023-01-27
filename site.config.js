@@ -4,7 +4,7 @@ const CONFIG = {
     name: '5 Ways',
     image: '/avatar.svg',  // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
     role: '',
-    bio: 'Just 5 ways to understand and learn',
+    bio: 'Just 5 ways to understand and learn programming concepts',
     email: 'brocodelabs@gmail.com',
     linkedin: '',
     github: 'pranjalg13',
@@ -19,7 +19,7 @@ const CONFIG = {
   // blog setting (required)
   blog: {
     title: '5ways-blogs',
-    description: 'Learn about programming concepts | Short and Useful',
+    description: 'Learn about programming concepts | Short and Useful programming content',
     theme: 'auto' // ['light', 'dark', 'auto']
   },
 
@@ -27,7 +27,7 @@ const CONFIG = {
   link: 'https://5ways.me/',
   since: 2022, // If leave this empty, current year will be used.
   lang: 'en-US', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES', 'ko-KR']
-  ogImageGenerateURL: 'https://og-image-korean.vercel.app', // The link to generate OG image, don't end with a slash
+  ogImageGenerateURL: 'https://og-image-korean.vercel.app/**5%20Ways**%20Blogs.png?theme=light&md=1&fontSize=100px&images=https%3A%2F%2Fassets.vercel.com%2Fimage%2Fupload%2Ffront%2Fassets%2Fdesign%2Fhyper-color-logo.svg', // The link to generate OG image, don't end with a slash
   seo: {
     keywords: ['Blog', 'Website', 'Notion'],
   },
